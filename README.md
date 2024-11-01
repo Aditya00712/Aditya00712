@@ -1,8 +1,3 @@
-## Hi there 👋
-Here's a sample README you could use for your GitHub profile, introducing yourself and highlighting your skills, experience, and projects:
-
----
-
 # Hi there! 👋 I'm Aditya
 
 I'm an EnTC Engineer with Honours in AIML, passionate about technology, coding, and project development. With hands-on experience in electronics and software development, I love creating solutions that bridge the gap between hardware and software. Welcome to my GitHub!
