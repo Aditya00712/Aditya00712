@@ -22,7 +22,7 @@ I'm expanding my knowledge in **UI/UX design** for web applications and **Python
 ### 🎖 Achievements
 - National-level rifle shooter and archer.
 - State level Archer.
-- Published research author.
+- "Hot Axle and Brake Binding in Indian Railway" Research Published at SSRN.
 
 ### 📫 Connect with Me
 Feel free to contact me or explore my repositories to see my work. I’m always open to collaborating on interesting projects or discussing new ideas.
